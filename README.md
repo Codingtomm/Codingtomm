@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Codingtomm
-- 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me @koladetomiwa1@gmail.com
+- 👀 I’m a Data Scientist. 
+- 🌱 How to reach me @koladetomiwa1@gmail.com
 
 <!---
 Codingtomm/Codingtomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
